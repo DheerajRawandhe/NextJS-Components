@@ -3,7 +3,7 @@
 Next.js provides powerful built-in components to enhance performance and user experience. The key components include:
 
 - **`next/image`**: Optimizes images with lazy loading, resizing, and better performance.
-- **`next/link`**: Enables client-side navigation for faster page transitions
+- **`next/link`**: Enables client-side navigation for faster page transitions.
 - **`next/script`**: Controls how third-party scripts load, improving performance.
 
 ## First, run the development server :-
