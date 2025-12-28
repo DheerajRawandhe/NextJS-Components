@@ -1,4 +1,4 @@
-## Next.js Components :- Image, Link, and Script
+### Next.js Components :- Image, Link, and Script
 ## Introduction :-
 Next.js provides powerful built-in components to enhance performance and user experience. The key components include :-
 
